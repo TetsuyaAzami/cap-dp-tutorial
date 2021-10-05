@@ -14,3 +14,4 @@ Dockerfile.development
 Dockerfile.production
 Capfile
 config/deploy.rb
+config/deploy/production.rb
