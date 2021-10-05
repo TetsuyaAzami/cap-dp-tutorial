@@ -1,0 +1,16 @@
+.git
+.gitattributes
+.gitignore
+.rspec
+README.md
+log
+tmp
+vendor/assets
+node_modules/
+public
+docker-compose.yml
+docker-compose.prod.yml
+Dockerfile.development
+Dockerfile.production
+Capfile
+config/deploy.rb
