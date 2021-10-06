@@ -28,8 +28,13 @@ services:
     tty: true
 volumes:
   mysql-data:
+    name: mysql-data
     driver: local
   bundle_mini:
+    name: bundle_mini
   node_modules_mini:
+    name: node_modules_mini
   tmp-data_mini:
+    name: tmp-data_mini
   public-data_mini:
+    name: public-data_mini
